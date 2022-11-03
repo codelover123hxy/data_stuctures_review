@@ -1,0 +1,25 @@
+# ninja log v5
+3	411	6891841656282776	CMakeFiles/data_stuctures_review.dir/stack/based_on_linkedlist/main.cpp.obj	aef12fa5aeee566e
+17	399	6891841656282776	CMakeFiles/data_stuctures_review.dir/stack/based_on_linkedlist/Stack.cpp.obj	aea41222b85b85a3
+3	392	6891819393206616	CMakeFiles/data_stuctures_review.dir/stack/based_on_array/main.cpp.obj	b3ddd9706dffa237
+1	225	6891841894082041	build.ninja	1f8c184b4cd0e099
+3	365	6891820534054473	CMakeFiles/data_stuctures_review.dir/stack/based_on_array/Stack.cpp.obj	7098dc54410e4f80
+366	545	6891820535855430	data_stuctures_review.exe	343f09b543ffe5d2
+1	225	6891841894082041	build.ninja	1f8c184b4cd0e099
+3	176	6891841896235731	data_stuctures_review.exe	42ee0b66bf5d16cb
+4	382	6891842059038556	CMakeFiles/data_stuctures_review.dir/stack/based_on_linkedlist/main.cpp.obj	aef12fa5aeee566e
+383	566	6891842060783256	data_stuctures_review.exe	42ee0b66bf5d16cb
+3	347	6891842153682505	CMakeFiles/data_stuctures_review.dir/stack/based_on_linkedlist/main.cpp.obj	aef12fa5aeee566e
+348	539	6891842155386132	data_stuctures_review.exe	42ee0b66bf5d16cb
+4	345	6891842266482886	CMakeFiles/data_stuctures_review.dir/stack/based_on_linkedlist/main.cpp.obj	aef12fa5aeee566e
+346	526	6891842268232286	data_stuctures_review.exe	42ee0b66bf5d16cb
+3	361	6891842775380858	CMakeFiles/data_stuctures_review.dir/stack/based_on_linkedlist/main.cpp.obj	aef12fa5aeee566e
+362	537	6891842777181514	data_stuctures_review.exe	42ee0b66bf5d16cb
+3	345	6891843060283357	CMakeFiles/data_stuctures_review.dir/stack/based_on_linkedlist/main.cpp.obj	aef12fa5aeee566e
+346	521	6891843062029784	data_stuctures_review.exe	42ee0b66bf5d16cb
+3	374	6891843258879954	CMakeFiles/data_stuctures_review.dir/stack/based_on_linkedlist/Stack.cpp.obj	aea41222b85b85a3
+375	565	6891843260582111	data_stuctures_review.exe	42ee0b66bf5d16cb
+3	364	6891844971877833	CMakeFiles/data_stuctures_review.dir/stack/based_on_linkedlist/Stack.cpp.obj	aea41222b85b85a3
+365	546	6891844973676099	data_stuctures_review.exe	42ee0b66bf5d16cb
+3	367	6891845362277435	CMakeFiles/data_stuctures_review.dir/stack/based_on_linkedlist/Stack.cpp.obj	aea41222b85b85a3
+368	544	6891845364179162	data_stuctures_review.exe	42ee0b66bf5d16cb
